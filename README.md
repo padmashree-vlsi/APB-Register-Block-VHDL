@@ -243,8 +243,7 @@ Hochschule Wismar, Germany
 ## Hardware Design Schematics
 
 ### Synthesized Design
-![APB Synthesized Schematic](screenshots/apb_synthesized_schematic.png)
+![APB Synthesized Schematic](apb_synthesized_schematic.png)
 
 ### Implemented Design
-![APB Implemented Schematic](screenshots/apb_implemented_schematic.png)
-
+![APB Implemented Schematic](apb_implemented_schematic.png)
