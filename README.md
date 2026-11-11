@@ -232,7 +232,7 @@ Through this project, I gained practical experience in:
 
 
 
-\*\*Padmashree Reddy\*\*
+Padma Shree Kondrahalli Byra Reddy
 
 
 
