@@ -240,3 +240,11 @@ Master's Student – Information and Electrical Engineering
 
 Hochschule Wismar, Germany
 
+## Hardware Design Schematics
+
+### Synthesized Design
+![APB Synthesized Schematic](screenshots/apb_synthesized_schematic.png)
+
+### Implemented Design
+![APB Implemented Schematic](screenshots/apb_implemented_schematic.png)
+
